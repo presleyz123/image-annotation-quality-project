@@ -1,0 +1,11 @@
+image_id,object_label,annotation_type,confidence
+image_001,car,bounding_box,0.95
+image_002,person,bounding_box,0.98
+image_003,dog,bounding_box,0.94
+image_004,cat,bounding_box,0.97
+image_005,bicycle,bounding_box,0.92
+image_006,car,bounding_box,0.96
+image_007,person,bounding_box,0.99
+image_008,dog,bounding_box,0.91
+image_009,cat,bounding_box,0.95
+image_010,bicycle,bounding_box,0.93
